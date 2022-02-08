@@ -1,0 +1,22 @@
+{
+  "name": "ebac-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "procedural.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndradeTC86/ebac-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndradeTC86/ebac-javascript/issues"
+  },
+  "homepage": "https://github.com/AndradeTC86/ebac-javascript#readme",
+  "dependencies": {
+    "node": "^17.4.0"
+  }
+}
