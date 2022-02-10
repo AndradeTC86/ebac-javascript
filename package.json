@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AndradeTC86/ebac-javascript#readme",
   "dependencies": {
-    "node": "^17.4.0"
+    "node": "^17.4.0",
+    "prolog": "^0.1.0",
+    "python": "^0.0.4"
   }
 }
