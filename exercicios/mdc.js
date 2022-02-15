@@ -1,9 +1,13 @@
-var a = 20, b = 6, temp;
+var mdc = (a, b) => {
 
-while (b != 0){
-    temp = a % b;
-    a = b;
-    b = temp;    
-}
+    var temp = 0;
+    
+    while (b != 0){
+        temp = a % b;
+        a = b;
+        b = temp;
+        
+        return a;
+}}
 
-console.log("O MDC dos números é igual a " + a);
+module.exports = { mdc } 

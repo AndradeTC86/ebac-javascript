@@ -1,9 +1,14 @@
-var a = 5, b = 7, x = 0;
+var inteiros = (a, b) => {
 
-for (let i = 0; i < 1000; i++) {
-    if(i % a == 0 || i % b == 0){
-        x += i;
-    }    
-}
+    var x= 0;
 
-console.log("A soma dos números múltiplos de 5 e 7 menores do que 1000 é " + x)
+    for (let i = 1; i < 1000; i++) {
+        if(i % a == 0 || i % b == 0){
+            x += i;
+        
+            return x;
+        }  
+}}
+
+module.exports = { inteiros }
+
