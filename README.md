@@ -40,4 +40,5 @@ The tests were written using the JavaScript language with Jest.
 - Run one of the commands below to run the tests.
   Examples:
 - To run all tests, execute `npm run test`
+- To run all tests showing the test coverage, execute `npm run coverage`
 <p>
