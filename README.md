@@ -1,4 +1,4 @@
-# ebac-javascript
+# Ebac Javascript
 
 # Automation Unit Test with Jest
 
