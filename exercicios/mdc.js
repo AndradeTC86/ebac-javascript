@@ -1,3 +1,5 @@
+// Calcule o MDC (máximo divisor comum) entre dois números.
+
 var mdc = (a, b) => {
 
     var temp = 0;
